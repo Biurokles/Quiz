@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_pb">Czy polibuda to najlepsza szkoła w galaktyce?</string>
+    <string name="q_throw">Czy powinienem rzucić studia?</string>
+    <string name="q_job">Czy dzięki studiom dostanę pracę?</string>
+    <string name="q_idk">czy powinienem dodać nowe pytania?</string>
+    <string name="q_hit">czy są dowody że wiedział?</string>
+    <string name="correct_answer">Prawidłowa odpowiedź. Liczba prawidłowych odpowiedzi:</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedź.</string>
+</resources>
