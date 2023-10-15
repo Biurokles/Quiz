@@ -10,4 +10,5 @@
     <string name="q_hit">czy są dowody że wiedział?</string>
     <string name="correct_answer">Prawidłowa odpowiedź. Liczba prawidłowych odpowiedzi:</string>
     <string name="incorrect_answer">Nieprawidłowa odpowiedź.</string>
+    <string name="answer_was_shown">Odpowiedź już została pokazana.</string>
 </resources>

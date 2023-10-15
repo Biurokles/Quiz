@@ -18,6 +18,13 @@
         android:text="Bum cyk cyk" />
 
     <Button
+        android:id="@+id/promptButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Podpowiedź" />
+
+    <Button
         android:id="@+id/next_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
